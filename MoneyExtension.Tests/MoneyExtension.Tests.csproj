@@ -4,6 +4,26 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
 
+<PackageId>MoneyExtensions</PackageId>
+<Version>1.0.0</Version>
+<icon>https://baltaio.blob.core.windows.net/static/images/icons/flunt-icon.png</icon>
+<License>MIT</License>
+<Authors>Leandro Piovezan</Authors>
+<Company>balta.io</Company>
+<PackageDescription>Extension to convert decimal to integer</PackageDescription>
+<Description>Extension to convert decimal to integer</Description>
+<RepositoryUrl>https://github.com/andrebaltieri/money-extensions</RepositoryUrl>
+<PackageProjectUrl>https://github.com/andrebaltieri/money-extensions</PackageProjectUrl>
+<PackageLicenseExpression>MIT</PackageLicenseExpression>
+
+<PackagTags>money;int;decimal;converter</PackagTags>
+<Title>Money Extensios</Title>
+<Summary>Extension to convert decimal to integer</Summary>
+  
+    
+
+    
+    
     <IsPackable>false</IsPackable>
   </PropertyGroup>
 
